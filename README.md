@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg">
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
