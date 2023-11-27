@@ -21,14 +21,11 @@
 ### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaplan-h/)
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:kplnhsyn.49@gmail.com)
-![](https://komarev.com/ghpvc/?username=kaplanhl&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kaplanh&color=blue&style=for-the-badge)
+<a href="https://kaplanh.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
-
-<h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaplanh&label=Profile%20views&color=0e75b6&style=flat" alt="kaplanh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaplanh" alt="kaplanh" /></a> </p>
 
