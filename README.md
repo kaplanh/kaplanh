@@ -9,7 +9,19 @@
   </ul>
 </div>
 
+<p>  Hello, and welcome to my GitHub profile! I'm a front-end developer who believes in the power of code. I thrive on continually improving myself at every stage of the software development process and adapting to new technologies. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. </p>
 
+<picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
+
+  
+- I’m currently working on **becoming a Full-Stack Developer**.
+  
+- Ask me anything about **NodeJS - ExpressJS - MongoDB - React - Javascript - Python - HTML5, CSS3 - Third party CSS libraries - AGILE Methodology - JIRA**.
+
+### 📬 Connect with me: 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaplan-h/)
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:kplnhsyn.49@gmail.com)
+![](https://komarev.com/ghpvc/?username=kaplanhl&color=blue&style=for-the-badge)
 
 
 
