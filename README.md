@@ -40,16 +40,28 @@
 <div id="user-content-toc" align="center">
 
   <ul>
-    <li> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
-  </a>
+    <li> 
+      <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
+     </a>
    </li>
-    <li><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,js,py&perline=4" />
-  </a></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>
+      <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=nextjs,ts,js,py&perline=4" />
+     </a>
+    </li>
+    <li> <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,mysql,sequelize&perline=5" />
+     </a></li>
+    <li> <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,sass,styledcomponents&perline=7" />
+     </a></li>
+    <li> <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=linux,git,github,docker&perline=4" />
+     </a></li>
+    <li> <a href="https://skillicons.dev">
+       <img src="https://skillicons.dev/icons?i=postman,vercel,netlify,vite,vscode,discord&perline=6" />
+     </a></li>
   </ul>
    
   
@@ -63,7 +75,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nodejs,express,mongodb,postgres,sqlite,mysql,nextjs,ts,react,js,py,css,html,bootstrap,materialui,tailwind,sass,styledcomponents,linux,git,github,postman,vercel,netlify,vite,vscode,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,nodejs,express,mongodb,postgres,sqlite,mysql,nextjs,ts,react,js,py,css,html,bootstrap,materialui,tailwind,sass,styledcomponents,linux,git,github,postman,vercel,netlify,vite,vscode,discord&perline=28" />
   </a>
 </p>
 
