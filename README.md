@@ -54,7 +54,7 @@
        <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,mysql,sequelize&perline=5" />
      </a></li>
     <li> <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,React-bootstrap,materialui,tailwind,sass,styledcomponents&perline=7" />
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react-bootstrap,materialui,tailwind,sass,styledcomponents&perline=7" />
      </a></li>
     <li> <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=linux,git,github,docker&perline=4" />
