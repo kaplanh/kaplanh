@@ -85,6 +85,27 @@
   </ul>
 </div>
 
+<!--
+## My projects-Full Stack-(MERN-Next.js)
+  Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
+:-------------------------|-------------------------|-------------------------
+[Live Link](https://fitnessappv2.netlify.app/)|React Sass | [Fitness Web Site](https://github.com/yucel1993/React-Projects-Advanced/tree/master/FitnessApp)
+[Live Link](https://movieappv2.netlify.app/)|React Tailwind Firebase| [Movie App](https://github.com/yucel1993/React-Projects-Advanced/tree/master/MovieApp)
+[Live Link](https://stockappclone.vercel.app/)| MERN MUI Tremor Redux-Toolkit| [Stock App](https://github.com/yucel1993/React-Projects-Advanced/tree/master/stockAppClone)
+[Live Link](https://netflixappv1-fvrywnywf-yucel1993.vercel.app/)|NextJs Tailwind FireBase| [Netflix Clone ](https://github.com/yucel1993/NextJs-Projects/tree/master/Netflixapp)
+[Live Link](https://carapp-git-master-yucel1993.vercel.app/)|NextJs Tailwind Clerk| [CarBook App ](https://github.com/yucel1993/NextJs-Projects/tree/master/carclone)
+[Live Link](https://react-tailwind12.netlify.app/)|React Tailwind| [Landing Page 1 ](https://github.com/yucel1993/React-Projects/tree/master/onePage/tailwind)
+[Live Link](https://react-styled12.netlify.app/)|React Styled-Components| [Landing Page 2 ](https://github.com/yucel1993/React-Projects/tree/master/onePage/StyledComponent)
+[Live Link](https://filmpirebeta.netlify.app/)|React Redux MUI ContextAPI AlanAI Firebase| [Filmpire](https://github.com/yucel1993/React-Projects-Advanced/tree/master/filmpire)
+[Live Link](https://voyagerv2.netlify.app/)|MERN MUI Redux| [Voyager-BlogApp]
+[Live Link](https://stack-overflow-git-master-yucel1993.vercel.app/)|Next.js Tailwind Clerk Mongodb Webhook AI  |  [DevOverflow](https://github.com/yucel1993/stackOverflow)
+[Live Link](https://threadclone-delta.vercel.app/)|Next.js Tailwind Clerk Mongodb Webhook Zod Shadcn  |  [ThreadClone](https://github.com/yucel1993/threadclone)
+[Live Link](https://evently-chi.vercel.app/)| Next.js Clerk Stripe Tailwind | [TicketMaster](https://github.com/yucel1993/evently)
+[Live Link](https://questionary-lovat.vercel.app/)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn AI | [MediumBeta](https://github.com/yucel1993/questionary)
+[Live Link](https://messengerapp-kohl.vercel.app/)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn AI | [WatsupClone](https://github.com/yucel1993/messengerapp)
+[Live Link](https://ecommerce-admin-gray-seven.vercel.app)|Next.js Shadcn Clerk Mongodb Webhook Zod Shadcn  | [EcommerceAppAdminModel](https://github.com/yucel1993/ecommerce_admin)
+-->
+
 
 <!-- Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
