@@ -16,7 +16,7 @@
   
 - I’m currently working on **becoming a Full-Stack Developer**.
   
-- Ask me anything about **NodeJS - ExpressJS - MongoDB - React - Javascript - Python - HTML5, CSS3 - Third party CSS libraries - AGILE Methodology - JIRA**.
+- Ask me anything about **NodeJS - ExpressJS - MongoDB - React - Javascript - Python - HTML5, CSS3 - Third party CSS libraries(Sass, Bootstrap, Styled Component, Tailwindcss, MaterialUI) - AGILE Methodology - JIRA**.
 
 ### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaplan-h/)
