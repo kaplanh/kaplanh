@@ -11,7 +11,7 @@
   </ul>
 </div>
 
-<p>  Hello, and welcome to my GitHub profile! I'm a front-end developer who believes in the power of code. I thrive on continually improving myself at every stage of the software development process and adapting to new technologies. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. </p>
+<p>  Hello, and welcome to my GitHub profile! I'm a full-stack developer who believes in the power of code. I thrive on continually improving myself at every stage of the software development process and adapting to new technologies. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. </p>
 
 <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
 
